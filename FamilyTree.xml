@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GenoPro>
+  <Software>GenoPro
+    <Name>GenoPro® - Picture Your Family Tree!(TM)</Name>
+    <Version>3.1.0.1</Version>
+    <Address>http://www.genopro.com</Address>
+  </Software>
+  <Date>11 Dec 2022</Date>
+
+<Global>
+  <Name>
+    <Full Format="%T %F (%N) %M %L (%L2) %S"/>
+    <Display Format="%F %M %L (%L2)" Lines="3"/>
+  </Name>
+  <Font>Arial</Font>
+  <Display>
+    <Tag>YoB_YoD</Tag>
+    <Colors>
+      <Gender Symbol="#000000" Text="#000000" Fill="#FFFFFF">
+        <Fill>
+          <Top Left="#FF0000" Right="#FF0000"/>
+          <Bottom Left="#FF0000" Right="#FF0000"/>
+        </Fill>
+      </Gender>
+      <Border Outline="#6E6EFF">
+        <Fill>#FFFF80</Fill>
+      </Border>
+      <Label Top="#000000" Bottom="#000000">
+        <Fill Top="#FFFFFF" Bottom="#FFFFFF"/>
+      </Label>
+    </Colors>
+  </Display>
+  <Tags ID="Global">
+    <TagData Name="custom_tag1">
+      <DisplayName>custom_tag1</DisplayName>
+    </TagData>
+    <DialogLayout Name="Custom Tags">
+      <Description>A custom tag is a generic placeholder to record additional information.&#32; You can customize those tags by using the Tag Editor from the Tools menu.</Description>
+      <Tags>custom_tag1</Tags>
+    </DialogLayout>
+  </Tags>
+  <Tags ID="Individual">
+    <TagData Name="custom_tag1">
+      <DisplayName>custom_tag1</DisplayName>
+    </TagData>
+    <DialogLayout Name="Custom Tags">
+      <Description>A custom tag is a generic placeholder to record additional information.&#32; You can customize those tags by using the Tag Editor from the Tools menu.</Description>
+      <Tags>custom_tag1</Tags>
+    </DialogLayout>
+    <DialogLayout Name="Место проживания">
+      <Description>123</Description>
+    </DialogLayout>
+  </Tags>
+  <Document>
+    <Title>1. Кучук</Title>
+  </Document>
+  <ActiveGenoMap>1. Кучук</ActiveGenoMap>
+</Global>
+<GenoMaps>
+<GenoMap Name="1. Кучук" Zoom="50" Position="2,0" BoundaryRect="-874,206,878,-205"/>
+</GenoMaps>
+<Individuals>
+<Individual ID="ind00001">
+  <Name>Кучук
+    <Display>Кучук</Display>
+    <First>Кучук</First>
+  </Name>
+  <Position BoundaryRect="44,-4,96,-63">70,-30</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00002">
+  <Name>Акъкъая
+    <Display>Акъкъая</Display>
+    <First>Акъкъая</First>
+  </Name>
+  <Position BoundaryRect="-10,101,50,42">20,75</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00003">
+  <Name>Какиева
+    <Display>Какиева</Display>
+    <Last>Какиева</Last>
+  </Name>
+  <Position BoundaryRect="90,101,149,42">120,75</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00004">
+  <Name>Акъбаш
+    <Display>Акъбаш</Display>
+    <First>Акъбаш</First>
+  </Name>
+  <Position BoundaryRect="-58,206,-2,147">-30,180</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00005">
+  <Position BoundaryRect="44,206,96,154">70,180</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00006">
+  <Name>Шабатукова
+    <Display>Шабатукова</Display>
+    <Last>Шабатукова</Last>
+  </Name>
+  <Position BoundaryRect="210,-4,290,-63">250,-30</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00007">
+  <Name>Бурхъу Кучукова
+    <Display>Бурхъу Кучукова</Display>
+    <First>Бурхъу</First>
+    <Last>Кучукова</Last>
+  </Name>
+  <Position BoundaryRect="-788,-109,-723,-182">-755,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00008">
+  <Name>Абшаев
+    <Display>Абшаев</Display>
+    <Last>Абшаев</Last>
+  </Name>
+  <Position BoundaryRect="-874,-109,-817,-168">-845,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00009">
+  <Name>Дауха Кучукова
+    <Display>Дауха Кучукова</Display>
+    <First>Дауха</First>
+    <Last>Кучукова</Last>
+  </Name>
+  <Position BoundaryRect="-588,-109,-523,-182">-555,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00010">
+  <Name>Науай Кайгермазов
+    <Display>Науай Кайгермазов</Display>
+    <First>Науай</First>
+    <Last>Кайгермазов</Last>
+  </Name>
+  <Position BoundaryRect="-697,-109,-614,-182">-655,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00011">
+  <Name>Мнят Кучукова
+    <Display>Мнят Кучукова</Display>
+    <First>Мнят</First>
+    <Last>Кучукова</Last>
+  </Name>
+  <Position BoundaryRect="-368,-109,-303,-182">-335,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00012">
+  <Name>Хажбатыр Бозиев (Конгуров)
+    <Display>Хажбатыр Бозиев (Конгуров)</Display>
+    <First>Хажбатыр</First>
+    <Last>Бозиев</Last>
+    <Last2>Конгуров</Last2>
+  </Name>
+  <Position BoundaryRect="-506,-109,-434,-196">-470,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00013">
+  <Name>Керекмез Кучукова
+    <Display>Керекмез Кучукова</Display>
+    <First>Керекмез</First>
+    <Last>Кучукова</Last>
+  </Name>
+  <Position BoundaryRect="-183,-109,-118,-182">-150,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00014">
+  <Name>Оразаев
+    <Display>Оразаев</Display>
+    <Last>Оразаев</Last>
+  </Name>
+  <Position BoundaryRect="-275,-109,-215,-168">-245,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00015">
+  <Name>Жахърат Кучукова
+    <Display>Жахърат Кучукова</Display>
+    <First>Жахърат</First>
+    <Last>Кучукова</Last>
+  </Name>
+  <Position BoundaryRect="-23,-109,42,-182">10,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00016">
+  <Name>Бозиев (Конгуров)
+    <Display>Бозиев (Конгуров)</Display>
+    <Last>Бозиев</Last>
+    <Last2>Конгуров</Last2>
+  </Name>
+  <Position BoundaryRect="-106,-109,-34,-182">-70,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00017">
+  <Name>Исса Кучуков
+    <Display>Исса Кучуков</Display>
+    <First>Исса</First>
+    <Last>Кучуков</Last>
+  </Name>
+  <Position BoundaryRect="70,-109,129,-182">100,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00018">
+  <Name>Мусукова
+    <Display>Мусукова</Display>
+    <Last>Мусукова</Last>
+  </Name>
+  <Position BoundaryRect="162,-109,228,-168">195,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00019">
+  <Name>Исхакъ Кучуков
+    <Display>Исхакъ Кучуков</Display>
+    <First>Исхакъ</First>
+    <Last>Кучуков</Last>
+  </Name>
+  <Position BoundaryRect="255,-109,314,-182">285,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00020">
+  <Name>Мусукова
+    <Display>Мусукова</Display>
+    <Last>Мусукова</Last>
+  </Name>
+  <Position BoundaryRect="342,-109,408,-168">375,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00021">
+  <Name>Якуб Кучуков
+    <Display>Якуб Кучуков</Display>
+    <First>Якуб</First>
+    <Last>Кучуков</Last>
+  </Name>
+  <Position BoundaryRect="435,-109,494,-182">465,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00022">
+  <Name>Кызау Гузеева
+    <Display>Кызау Гузеева</Display>
+    <First>Кызау</First>
+    <Last>Гузеева</Last>
+  </Name>
+  <Position BoundaryRect="546,-109,604,-182">575,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00023">
+  <Name>Хажбий Кучуков
+    <Display>Хажбий Кучуков</Display>
+    <First>Хажбий</First>
+    <Last>Кучуков</Last>
+  </Name>
+  <Position BoundaryRect="630,-109,689,-182">660,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00024">
+  <Name>Муса Кучуков
+    <Display>Муса Кучуков</Display>
+    <First>Муса</First>
+    <Last>Кучуков</Last>
+  </Name>
+  <Position BoundaryRect="720,-109,779,-182">750,-135</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00025">
+  <Name>Кабахан Баллуева
+    <Display>Кабахан Баллуева</Display>
+    <First>Кабахан</First>
+    <Last>Баллуева</Last>
+  </Name>
+  <Position BoundaryRect="812,-109,878,-182">845,-135</Position>
+  <Gender>F</Gender>
+</Individual>
+</Individuals>
+<Families>
+<Family ID="fam00001">
+  <Position>70,20
+    <Top>
+      <Left>20,20</Left>
+      <Right>120,20</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00002">
+  <Position>20,125
+    <Top>
+      <Left>-30,125</Left>
+      <Right>70,125</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00003">
+  <Position>70,-85
+    <Top>
+      <Left>-755,-85</Left>
+      <Right>750,-85</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00004">
+  <Position>-840,-190
+    <Top>
+      <Left>-845,-190</Left>
+      <Right>-755,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00005">
+  <Position>-640,-190
+    <Top>
+      <Left>-655,-190</Left>
+      <Right>-555,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00006">
+  <Position>-420,-190
+    <Top>
+      <Left>-470,-190</Left>
+      <Right>-335,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00007">
+  <Position>-235,-190
+    <Top>
+      <Left>-245,-190</Left>
+      <Right>-150,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00008">
+  <Position>-35,-190
+    <Top>
+      <Left>-70,-190</Left>
+      <Right>10,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00009">
+  <Position>100,-190
+    <Top>
+      <Left>100,-190</Left>
+      <Right>195,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00010">
+  <Position>285,-190
+    <Top>
+      <Left>285,-190</Left>
+      <Right>375,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00011">
+  <Position>465,-190
+    <Top>
+      <Left>465,-190</Left>
+      <Right>575,-190</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00012">
+  <Position>750,-190
+    <Top>
+      <Left>750,-190</Left>
+      <Right>845,-190</Right>
+    </Top>
+  </Position>
+</Family>
+</Families>
+<PedigreeLinks>
+<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00002"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00003"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00001" Individual="ind00001"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00002" Individual="ind00004"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00002" Individual="ind00005"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00002"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00001"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00006"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00007"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00004" Individual="ind00007"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00004" Individual="ind00008"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00009"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00005" Individual="ind00009"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00005" Individual="ind00010"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00011"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00006" Individual="ind00011"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00006" Individual="ind00012"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00013"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00007" Individual="ind00013"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00007" Individual="ind00014"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00015"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00008" Individual="ind00015"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00008" Individual="ind00016"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00017"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00009" Individual="ind00017"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00009" Individual="ind00018"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00019"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00010" Individual="ind00019"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00010" Individual="ind00020"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00021"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00011" Individual="ind00021"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00011" Individual="ind00022"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00023"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00024"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00012" Individual="ind00024"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00012" Individual="ind00025"/>
+</PedigreeLinks>
+</GenoPro>
