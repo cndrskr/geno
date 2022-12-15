@@ -5,7 +5,7 @@
     <Version>3.1.0.1</Version>
     <Address>http://www.genopro.com</Address>
   </Software>
-  <Date>11 Dec 2022</Date>
+  <Date>15 Dec 2022</Date>
 
 <Global>
   <Name>
@@ -51,66 +51,247 @@
       <Description>123</Description>
     </DialogLayout>
   </Tags>
-  <Document>
-    <Title>1. Кучук</Title>
-  </Document>
-  <ActiveGenoMap>1. Кучук</ActiveGenoMap>
+  <ActiveGenoMap>Kuchuk</ActiveGenoMap>
 </Global>
 <GenoMaps>
-<GenoMap Name="1. Кучук" Zoom="50" Position="2,0" BoundaryRect="-874,206,878,-205"/>
+<GenoMap Name="Kuchuk" Zoom="50" Position="-173,20" BoundaryRect="-1049,226,703,-185"/>
+<GenoMap Name="Burhu" Position="-77,-2" BoundaryRect="-180,151,26,-156"/>
+<GenoMap Name="Dauha" Position="-35,17" BoundaryRect="-162,106,92,-72"/>
 </GenoMaps>
 <Individuals>
 <Individual ID="ind00001">
-  <Name>Кучук
-    <Display>Кучук</Display>
-    <First>Кучук</First>
+  <Name>Науай Кайгермазов
+    <Display>Науай Кайгермазов</Display>
+    <First>Науай</First>
+    <Last>Кайгермазов</Last>
   </Name>
-  <Position BoundaryRect="44,-4,96,-63">70,-30</Position>
+  <Position GenoMap="Dauha" BoundaryRect="-162,106,-79,33">-120,80</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00002">
-  <Name>Акъкъая
-    <Display>Акъкъая</Display>
-    <First>Акъкъая</First>
+  <Name>Дауха Кучукова
+    <Display>Дауха Кучукова</Display>
+    <First>Дауха</First>
+    <Last>Кучукова</Last>
   </Name>
-  <Position BoundaryRect="-10,101,50,42">20,75</Position>
-  <Gender>M</Gender>
+  <Position BoundaryRect="-763,-89,-698,-162">-730,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00003">
-  <Name>Какиева
-    <Display>Какиева</Display>
-    <Last>Какиева</Last>
+  <Name>Хасан Кайгермазов
+    <Display>Хасан Кайгермазов</Display>
+    <First>Хасан</First>
+    <Last>Кайгермазов</Last>
   </Name>
-  <Position BoundaryRect="90,101,149,42">120,75</Position>
-  <Gender>F</Gender>
-</Individual>
-<Individual ID="ind00004">
-  <Name>Акъбаш
-    <Display>Акъбаш</Display>
-    <First>Акъбаш</First>
-  </Name>
-  <Position BoundaryRect="-58,206,-2,147">-30,180</Position>
+  <Position GenoMap="Dauha" BoundaryRect="-137,1,-54,-72">-95,-25</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
-<Individual ID="ind00005">
-  <Position BoundaryRect="44,206,96,154">70,180</Position>
-  <Gender>F</Gender>
-</Individual>
-<Individual ID="ind00006">
-  <Name>Шабатукова
-    <Display>Шабатукова</Display>
-    <Last>Шабатукова</Last>
+<Individual ID="ind00004">
+  <Name>Чокку Кайгермазов
+    <Display>Чокку Кайгермазов</Display>
+    <First>Чокку</First>
+    <Last>Кайгермазов</Last>
   </Name>
-  <Position BoundaryRect="210,-4,290,-63">250,-30</Position>
-  <Gender>F</Gender>
+  <Position GenoMap="Dauha" BoundaryRect="-2,1,81,-72">40,-25</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
 </Individual>
-<Individual ID="ind00007">
+<Individual ID="ind00026">
+  <Name>Абшаев
+    <Display>Абшаев</Display>
+    <Last>Абшаев</Last>
+  </Name>
+  <Position GenoMap="Burhu" BoundaryRect="-179,151,-122,92">-150,125</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00027">
   <Name>Бурхъу Кучукова
     <Display>Бурхъу Кучукова</Display>
     <First>Бурхъу</First>
     <Last>Кучукова</Last>
   </Name>
-  <Position BoundaryRect="-788,-109,-723,-182">-755,-135</Position>
+  <Position BoundaryRect="-963,-89,-898,-162">-930,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00028">
+  <Name>Рамазан Абшаев
+    <Display>Рамазан Абшаев</Display>
+    <First>Рамазан</First>
+    <Last>Абшаев</Last>
+  </Name>
+  <Position GenoMap="Burhu" BoundaryRect="-180,11,-121,-62">-150,-15</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00029">
+  <Name>Шабатай Абшаев
+    <Display>Шабатай Абшаев</Display>
+    <First>Шабатай</First>
+    <Last>Абшаев</Last>
+  </Name>
+  <Position GenoMap="Burhu" BoundaryRect="-106,11,-44,-62">-75,-15</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00005">
+  <Position GenoMap="Burhu" BoundaryRect="-26,11,26,-41">0,-15</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00006">
+  <Position GenoMap="Burhu" BoundaryRect="-66,-104,-14,-156">-40,-130</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00030">
+  <Name>Кучук
+    <Display>Кучук</Display>
+    <First>Кучук</First>
+  </Name>
+  <Position BoundaryRect="-131,16,-79,-43">-105,-10</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00031">
+  <Name>Акъкъая
+    <Display>Акъкъая</Display>
+    <First>Акъкъая</First>
+  </Name>
+  <Position BoundaryRect="-185,121,-125,62">-155,95</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00032">
+  <Name>Какиева
+    <Display>Какиева</Display>
+    <Last>Какиева</Last>
+  </Name>
+  <Position BoundaryRect="-85,121,-26,62">-55,95</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00033">
+  <Name>Акъбаш
+    <Display>Акъбаш</Display>
+    <First>Акъбаш</First>
+  </Name>
+  <Position BoundaryRect="-233,226,-177,167">-205,200</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00034">
+  <Position BoundaryRect="-131,226,-79,174">-105,200</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00035">
+  <Name>Шабатукова
+    <Display>Шабатукова</Display>
+    <Last>Шабатукова</Last>
+  </Name>
+  <Position BoundaryRect="35,16,115,-43">75,-10</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00008">
@@ -118,17 +299,15 @@
     <Display>Абшаев</Display>
     <Last>Абшаев</Last>
   </Name>
-  <Position BoundaryRect="-874,-109,-817,-168">-845,-135</Position>
+  <Position BoundaryRect="-1049,-89,-992,-148">-1020,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
-</Individual>
-<Individual ID="ind00009">
-  <Name>Дауха Кучукова
-    <Display>Дауха Кучукова</Display>
-    <First>Дауха</First>
-    <Last>Кучукова</Last>
-  </Name>
-  <Position BoundaryRect="-588,-109,-523,-182">-555,-135</Position>
-  <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00010">
   <Name>Науай Кайгермазов
@@ -136,7 +315,14 @@
     <First>Науай</First>
     <Last>Кайгермазов</Last>
   </Name>
-  <Position BoundaryRect="-697,-109,-614,-182">-655,-135</Position>
+  <Position BoundaryRect="-872,-89,-789,-162">-830,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00011">
@@ -145,7 +331,14 @@
     <First>Мнят</First>
     <Last>Кучукова</Last>
   </Name>
-  <Position BoundaryRect="-368,-109,-303,-182">-335,-135</Position>
+  <Position BoundaryRect="-543,-89,-478,-162">-510,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00012">
@@ -155,7 +348,14 @@
     <Last>Бозиев</Last>
     <Last2>Конгуров</Last2>
   </Name>
-  <Position BoundaryRect="-506,-109,-434,-196">-470,-135</Position>
+  <Position BoundaryRect="-681,-89,-609,-176">-645,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00013">
@@ -164,7 +364,14 @@
     <First>Керекмез</First>
     <Last>Кучукова</Last>
   </Name>
-  <Position BoundaryRect="-183,-109,-118,-182">-150,-135</Position>
+  <Position BoundaryRect="-358,-89,-293,-162">-325,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00014">
@@ -172,7 +379,14 @@
     <Display>Оразаев</Display>
     <Last>Оразаев</Last>
   </Name>
-  <Position BoundaryRect="-275,-109,-215,-168">-245,-135</Position>
+  <Position BoundaryRect="-450,-89,-390,-148">-420,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00015">
@@ -181,7 +395,14 @@
     <First>Жахърат</First>
     <Last>Кучукова</Last>
   </Name>
-  <Position BoundaryRect="-23,-109,42,-182">10,-135</Position>
+  <Position BoundaryRect="-198,-89,-133,-162">-165,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00016">
@@ -190,7 +411,14 @@
     <Last>Бозиев</Last>
     <Last2>Конгуров</Last2>
   </Name>
-  <Position BoundaryRect="-106,-109,-34,-182">-70,-135</Position>
+  <Position BoundaryRect="-281,-89,-209,-162">-245,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00017">
@@ -199,7 +427,14 @@
     <First>Исса</First>
     <Last>Кучуков</Last>
   </Name>
-  <Position BoundaryRect="70,-109,129,-182">100,-135</Position>
+  <Position BoundaryRect="-105,-89,-46,-162">-75,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00018">
@@ -207,7 +442,14 @@
     <Display>Мусукова</Display>
     <Last>Мусукова</Last>
   </Name>
-  <Position BoundaryRect="162,-109,228,-168">195,-135</Position>
+  <Position BoundaryRect="-13,-89,53,-148">20,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00019">
@@ -216,7 +458,14 @@
     <First>Исхакъ</First>
     <Last>Кучуков</Last>
   </Name>
-  <Position BoundaryRect="255,-109,314,-182">285,-135</Position>
+  <Position BoundaryRect="80,-89,139,-162">110,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00020">
@@ -224,7 +473,14 @@
     <Display>Мусукова</Display>
     <Last>Мусукова</Last>
   </Name>
-  <Position BoundaryRect="342,-109,408,-168">375,-135</Position>
+  <Position BoundaryRect="167,-89,233,-148">200,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00021">
@@ -233,7 +489,14 @@
     <First>Якуб</First>
     <Last>Кучуков</Last>
   </Name>
-  <Position BoundaryRect="435,-109,494,-182">465,-135</Position>
+  <Position BoundaryRect="260,-89,319,-162">290,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00022">
@@ -242,7 +505,14 @@
     <First>Кызау</First>
     <Last>Гузеева</Last>
   </Name>
-  <Position BoundaryRect="546,-109,604,-182">575,-135</Position>
+  <Position BoundaryRect="371,-89,429,-162">400,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind00023">
@@ -251,7 +521,14 @@
     <First>Хажбий</First>
     <Last>Кучуков</Last>
   </Name>
-  <Position BoundaryRect="630,-109,689,-182">660,-135</Position>
+  <Position BoundaryRect="455,-89,514,-162">485,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00024">
@@ -260,7 +537,14 @@
     <First>Муса</First>
     <Last>Кучуков</Last>
   </Name>
-  <Position BoundaryRect="720,-109,779,-182">750,-135</Position>
+  <Position BoundaryRect="545,-89,604,-162">575,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind00025">
@@ -269,122 +553,197 @@
     <First>Кабахан</First>
     <Last>Баллуева</Last>
   </Name>
-  <Position BoundaryRect="812,-109,878,-182">845,-135</Position>
+  <Position BoundaryRect="637,-89,703,-162">670,-115</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
   <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00036" IndividualInternalHyperlink="ind00027">
+  <Name>
+    <Display>Бурхъу Кучукова</Display>
+  </Name>
+  <Position GenoMap="Burhu" BoundaryRect="-108,151,-43,78">-75,125</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
+</Individual>
+<Individual ID="ind00037" IndividualInternalHyperlink="ind00002">
+  <Name>
+    <Display>Дауха Кучукова</Display>
+  </Name>
+  <Position GenoMap="Dauha" BoundaryRect="27,106,92,33">60,80</Position>
+  <Display>
+    <Colors>
+      <Border>
+        <Fill>#FFFF80</Fill>
+      </Border>
+    </Colors>
+  </Display>
 </Individual>
 </Individuals>
 <Families>
 <Family ID="fam00001">
-  <Position>70,20
+  <Position GenoMap="Dauha">-120,25
     <Top>
-      <Left>20,20</Left>
-      <Right>120,20</Right>
+      <Left>-120,25</Left>
+      <Right>60,25</Right>
     </Top>
   </Position>
 </Family>
-<Family ID="fam00002">
-  <Position>20,125
+<Family ID="fam00013">
+  <Position GenoMap="Burhu">-120,60
     <Top>
-      <Left>-30,125</Left>
-      <Right>70,125</Right>
+      <Left>-150,60</Left>
+      <Right>-75,60</Right>
+    </Top>
+    <Bottom>
+      <Left>-150,30</Left>
+      <Right>-75,30</Right>
+    </Bottom>
+  </Position>
+</Family>
+<Family ID="fam00002">
+  <Position GenoMap="Burhu">-45,-85
+    <Top>
+      <Left>-75,-85</Left>
+      <Right>0,-85</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00014">
+  <Position>-105,40
+    <Top>
+      <Left>-155,40</Left>
+      <Right>-55,40</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00015">
+  <Position>-155,145
+    <Top>
+      <Left>-205,145</Left>
+      <Right>-105,145</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00003">
-  <Position>70,-85
+  <Position>-105,-65
     <Top>
-      <Left>-755,-85</Left>
-      <Right>750,-85</Right>
-    </Top>
-  </Position>
-</Family>
-<Family ID="fam00004">
-  <Position>-840,-190
-    <Top>
-      <Left>-845,-190</Left>
-      <Right>-755,-190</Right>
+      <Left>-930,-65</Left>
+      <Right>575,-65</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00005">
-  <Position>-640,-190
+  <Position>-815,-170
     <Top>
-      <Left>-655,-190</Left>
-      <Right>-555,-190</Right>
+      <Left>-830,-170</Left>
+      <Right>-730,-170</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00006">
-  <Position>-420,-190
+  <Position>-595,-170
     <Top>
-      <Left>-470,-190</Left>
-      <Right>-335,-190</Right>
+      <Left>-645,-170</Left>
+      <Right>-510,-170</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00007">
-  <Position>-235,-190
+  <Position>-410,-170
     <Top>
-      <Left>-245,-190</Left>
-      <Right>-150,-190</Right>
+      <Left>-420,-170</Left>
+      <Right>-325,-170</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00008">
-  <Position>-35,-190
+  <Position>-210,-170
     <Top>
-      <Left>-70,-190</Left>
-      <Right>10,-190</Right>
+      <Left>-245,-170</Left>
+      <Right>-165,-170</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00009">
-  <Position>100,-190
+  <Position>-75,-170
     <Top>
-      <Left>100,-190</Left>
-      <Right>195,-190</Right>
+      <Left>-75,-170</Left>
+      <Right>20,-170</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00010">
-  <Position>285,-190
+  <Position>110,-170
     <Top>
-      <Left>285,-190</Left>
-      <Right>375,-190</Right>
+      <Left>110,-170</Left>
+      <Right>200,-170</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00011">
-  <Position>465,-190
+  <Position>290,-170
     <Top>
-      <Left>465,-190</Left>
-      <Right>575,-190</Right>
+      <Left>290,-170</Left>
+      <Right>400,-170</Right>
     </Top>
   </Position>
 </Family>
 <Family ID="fam00012">
-  <Position>750,-190
+  <Position>575,-170
     <Top>
-      <Left>750,-190</Left>
-      <Right>845,-190</Right>
+      <Left>575,-170</Left>
+      <Right>670,-170</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00016">
+  <Position>-1020,-170
+    <Top>
+      <Left>-1020,-170</Left>
+      <Right>-930,-170</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00017">
+  <Position>-830,-170
+    <Top>
+      <Left>-830,-170</Left>
+      <Right>-730,-170</Right>
     </Top>
   </Position>
 </Family>
 </Families>
 <PedigreeLinks>
-<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00002"/>
-<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00003"/>
-<PedigreeLink PedigreeLink="Biological" Family="fam00001" Individual="ind00001"/>
-<PedigreeLink PedigreeLink="Parent" Family="fam00002" Individual="ind00004"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00001"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00037"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00001" Individual="ind00003"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00001" Individual="ind00004"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00013" Individual="ind00026"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00013" Individual="ind00036"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00013" Individual="ind00028"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00013" Individual="ind00029"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00002" Individual="ind00029"/>
 <PedigreeLink PedigreeLink="Parent" Family="fam00002" Individual="ind00005"/>
-<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00002"/>
-<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00001"/>
-<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00006"/>
-<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00007"/>
-<PedigreeLink PedigreeLink="Parent" Family="fam00004" Individual="ind00007"/>
-<PedigreeLink PedigreeLink="Parent" Family="fam00004" Individual="ind00008"/>
-<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00009"/>
-<PedigreeLink PedigreeLink="Parent" Family="fam00005" Individual="ind00009"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00006"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00014" Individual="ind00031"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00014" Individual="ind00032"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00014" Individual="ind00030"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00015" Individual="ind00033"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00015" Individual="ind00034"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00015" Individual="ind00031"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00030"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00035"/>
 <PedigreeLink PedigreeLink="Parent" Family="fam00005" Individual="ind00010"/>
 <PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00011"/>
 <PedigreeLink PedigreeLink="Parent" Family="fam00006" Individual="ind00011"/>
@@ -408,5 +767,11 @@
 <PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00024"/>
 <PedigreeLink PedigreeLink="Parent" Family="fam00012" Individual="ind00024"/>
 <PedigreeLink PedigreeLink="Parent" Family="fam00012" Individual="ind00025"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00016" Individual="ind00027"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00016" Individual="ind00008"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00027"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00017" Individual="ind00002"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00017" Individual="ind00010"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00002"/>
 </PedigreeLinks>
 </GenoPro>
