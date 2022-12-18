@@ -5,7 +5,7 @@
     <Version>3.1.0.1</Version>
     <Address>http://www.genopro.com</Address>
   </Software>
-  <Date>17 Dec 2022</Date>
+  <Date>18 Dec 2022</Date>
 
 <Global>
   <Name>
@@ -51,7 +51,12 @@
       <Description>123</Description>
     </DialogLayout>
   </Tags>
-  <ActiveGenoMap>1.9. Муса</ActiveGenoMap>
+  <Document>
+    <Title>Терекле</Title>
+    <Description>Генеалогические деревья малкъарских Кучуковых и турецких Берберовых</Description>
+    <Comment>Мой частный комментарий</Comment>
+  </Document>
+  <ActiveGenoMap>2. Berber</ActiveGenoMap>
   <custom_tag1>Место проживания</custom_tag1>
 </Global>
 <GenoMaps>
@@ -70,6 +75,7 @@
 </GenoMap>
 <GenoMap Name="1.9. Муса" Zoom="50" Position="1433,-228" BoundaryRect="-3739,176,6606,-632"/>
 <GenoMap Name="1.9.1. Зулкъарней" Zoom="50" Position="-4530,-83" BoundaryRect="-16927,321,7866,-487"/>
+<GenoMap Name="2. Berber" Zoom="50" Position="1262,-226" BoundaryRect="-341,121,2866,-573"/>
 </GenoMaps>
 <Individuals>
 <Individual ID="ind00002">
@@ -6976,10 +6982,10 @@
   <Gender>F</Gender>
 </Individual>
 <Individual ID="ind02939">
-  <Name>Аккиев Сагъыт
-    <Display>Аккиев Сагъыт</Display>
-    <First>Аккиев</First>
-    <Middle>Сагъыт</Middle>
+  <Name>Сагъыт Аккиев
+    <Display>Сагъыт Аккиев</Display>
+    <First>Сагъыт</First>
+    <Last>Аккиев</Last>
   </Name>
   <Position GenoMap="1.9.1. Зулкъарней" BoundaryRect="-16927,-119,-16873,-192">-16900,-145</Position>
   <Gender>M</Gender>
@@ -9934,7 +9940,7 @@
     <First>Мурадин</First>
     <Last>Ольмезов</Last>
   </Name>
-  <Position GenoMap="1.9.1. Зулкъарней" BoundaryRect="3986,-134,4054,-207">4020,-160</Position>
+  <Position GenoMap="1.9.1. Зулкъарней" BoundaryRect="3986,-119,4054,-192">4020,-145</Position>
   <Gender>M</Gender>
 </Individual>
 <Individual ID="ind03277">
@@ -11377,6 +11383,642 @@
 <Individual ID="ind03451">
   <Position GenoMap="1.6. Исса" BoundaryRect="-6,41,46,-11">20,15</Position>
   <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03452">
+  <Name>Ali Berber
+    <Display>Ali Berber</Display>
+    <First>Ali</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-151,121,-99,48">-125,95</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03453">
+  <Position GenoMap="2. Berber" BoundaryRect="-71,121,-19,69">-45,95</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03454">
+  <Name>Mustafa Berber
+    <Display>Mustafa Berber</Display>
+    <First>Mustafa</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-128,16,-73,-57">-100,-10</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03455">
+  <Position GenoMap="2. Berber" BoundaryRect="54,16,106,-36">80,-10</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03456">
+  <Name>Is. Berber
+    <Display>Is. Berber</Display>
+    <First>Is.</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-341,-89,-289,-162">-315,-115</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03457">
+  <Name>Mehmet Berber
+    <Display>Mehmet Berber</Display>
+    <First>Mehmet</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-52,-89,1,-162">-25,-115</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03458">
+  <Name>Ahmet Berber
+    <Display>Ahmet Berber</Display>
+    <First>Ahmet</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2124,-89,2176,-162">2150,-115</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03459">
+  <Position GenoMap="2. Berber" BoundaryRect="129,-89,181,-141">155,-115</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03460">
+  <Name>Fehmi Berber
+    <Display>Fehmi Berber</Display>
+    <First>Fehmi</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-256,-194,-204,-267">-230,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03461">
+  <Name>Bahriye Berber
+    <Display>Bahriye Berber</Display>
+    <First>Bahriye</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="193,-194,246,-267">220,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03462">
+  <Name>Rasime Berber
+    <Display>Rasime Berber</Display>
+    <First>Rasime</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="469,-194,521,-267">495,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03463">
+  <Name>Ali Berber
+    <Display>Ali Berber</Display>
+    <First>Ali</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="724,-194,776,-267">750,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03464">
+  <Name>Sadik Berber
+    <Display>Sadik Berber</Display>
+    <First>Sadik</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1054,-194,1106,-267">1080,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03465">
+  <Name>Fethi Berber
+    <Display>Fethi Berber</Display>
+    <First>Fethi</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1404,-194,1456,-267">1430,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03466">
+  <Position GenoMap="2. Berber" BoundaryRect="-76,-194,-24,-246">-50,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03467">
+  <Name>Mehmet Berber
+    <Display>Mehmet Berber</Display>
+    <First>Mehmet</First>
+    <Last>Berber</Last>
+  </Name>
+  <Pictures Primary="pic00001">pic00001</Pictures>
+  <Position GenoMap="2. Berber" BoundaryRect="-232,-299,-179,-372">-205,-325</Position>
+  <Display>
+    <Colors>
+      <Gender Fill="#008000"/>
+    </Colors>
+  </Display>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03468">
+  <Name>Osman Berber
+    <Display>Osman Berber</Display>
+    <First>Osman</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-106,-299,-54,-372">-80,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03469">
+  <Name>Gulshane
+    <Display>Gulshane</Display>
+    <First>Gulshane</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-176,-299,-114,-358">-145,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03470">
+  <Name>Berke Berber
+    <Display>Berke Berber</Display>
+    <First>Berke</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-206,-404,-154,-477">-180,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03471">
+  <Position GenoMap="2. Berber" BoundaryRect="-151,-404,-99,-456">-125,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03472">
+  <Position GenoMap="2. Berber" BoundaryRect="-46,-299,6,-351">-20,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03473">
+  <Name>Kerem
+    <Display>Kerem</Display>
+    <First>Kerem</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="-81,-404,-29,-463">-55,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03474">
+  <Position GenoMap="2. Berber" BoundaryRect="89,-194,141,-246">115,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03475">
+  <Name>Hasan
+    <Display>Hasan</Display>
+    <First>Hasan</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="74,-299,126,-358">100,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03476">
+  <Name>Belgin
+    <Display>Belgin</Display>
+    <First>Belgin</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="254,-299,306,-358">280,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03477">
+  <Position GenoMap="2. Berber" BoundaryRect="129,-299,181,-351">155,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03478">
+  <Name>Sebnem
+    <Display>Sebnem</Display>
+    <First>Sebnem</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="97,-404,152,-463">125,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03479">
+  <Position GenoMap="2. Berber" BoundaryRect="194,-299,246,-351">220,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03480">
+  <Name>Tolga
+    <Display>Tolga</Display>
+    <First>Tolga</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="224,-404,276,-463">250,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03481">
+  <Position GenoMap="2. Berber" BoundaryRect="384,-194,436,-246">410,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03482">
+  <Name>Mustafa
+    <Display>Mustafa</Display>
+    <First>Mustafa</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="337,-299,392,-358">365,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03483">
+  <Name>Havva
+    <Display>Havva</Display>
+    <First>Havva</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="564,-294,616,-353">590,-320</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03484">
+  <Position GenoMap="2. Berber" BoundaryRect="504,-294,556,-346">530,-320</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03485">
+  <Name>Idris
+    <Display>Idris</Display>
+    <First>Idris</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="509,-399,561,-458">535,-425</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03486">
+  <Name>Zuleyha
+    <Display>Zuleyha</Display>
+    <First>Zuleyha</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="557,-399,612,-458">585,-425</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03487">
+  <Position GenoMap="2. Berber" BoundaryRect="409,-299,461,-351">435,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03488">
+  <Name>Cagla
+    <Display>Cagla</Display>
+    <First>Cagla</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="349,-404,401,-463">375,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03489">
+  <Name>Dilara
+    <Display>Dilara</Display>
+    <First>Dilara</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="399,-404,451,-463">425,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03490">
+  <Position GenoMap="2. Berber" BoundaryRect="784,-194,836,-246">810,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03491">
+  <Name>Turkan Berber
+    <Display>Turkan Berber</Display>
+    <First>Turkan</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="749,-299,801,-372">775,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03492">
+  <Position GenoMap="2. Berber" BoundaryRect="809,-299,861,-351">835,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03493">
+  <Name>Peksen Berber
+    <Display>Peksen Berber</Display>
+    <First>Peksen</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="699,-409,751,-482">725,-435</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03494">
+  <Name>Husein Berber
+    <Display>Husein Berber</Display>
+    <First>Husein</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="849,-409,901,-482">875,-435</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03495">
+  <Position GenoMap="2. Berber" BoundaryRect="754,-409,806,-461">780,-435</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03496">
+  <Name>Oksan
+    <Display>Oksan</Display>
+    <First>Oksan</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="724,-514,776,-573">750,-540</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03497">
+  <Position GenoMap="2. Berber" BoundaryRect="1124,-194,1176,-246">1150,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03498">
+  <Name>Mehmet Berber
+    <Display>Mehmet Berber</Display>
+    <First>Mehmet</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1003,-299,1056,-372">1030,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03499">
+  <Name>Bulent Berber
+    <Display>Bulent Berber</Display>
+    <First>Bulent</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1174,-299,1226,-372">1200,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03500">
+  <Position GenoMap="2. Berber" BoundaryRect="1064,-299,1116,-351">1090,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03501">
+  <Name>Ozge Berber
+    <Display>Ozge Berber</Display>
+    <First>Ozge</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1029,-404,1081,-477">1055,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03502">
+  <Position GenoMap="2. Berber" BoundaryRect="1234,-299,1286,-351">1260,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03503">
+  <Name>Gamze Berber
+    <Display>Gamze Berber</Display>
+    <First>Gamze</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1199,-404,1251,-477">1225,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03504">
+  <Position GenoMap="2. Berber" BoundaryRect="1464,-194,1516,-246">1490,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03505">
+  <Name>Mujgan Berber
+    <Display>Mujgan Berber</Display>
+    <First>Mujgan</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1389,-299,1441,-372">1415,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03506">
+  <Name>Mustafa Berber
+    <Display>Mustafa Berber</Display>
+    <First>Mustafa</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1477,-299,1532,-372">1505,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03507">
+  <Position GenoMap="2. Berber" BoundaryRect="1319,-299,1371,-351">1345,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03508">
+  <Name>Sebnem
+    <Display>Sebnem</Display>
+    <First>Sebnem</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1327,-404,1382,-463">1355,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03509">
+  <Name>Ibrahim
+    <Display>Ibrahim</Display>
+    <First>Ibrahim</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1379,-404,1431,-463">1405,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03510">
+  <Position GenoMap="2. Berber" BoundaryRect="1539,-299,1591,-351">1565,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03511">
+  <Name>Sezgin Berber
+    <Display>Sezgin Berber</Display>
+    <First>Sezgin</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1504,-404,1556,-477">1530,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03512">
+  <Position GenoMap="2. Berber" BoundaryRect="2304,-89,2356,-141">2330,-115</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03513">
+  <Name>Nuri Berber
+    <Display>Nuri Berber</Display>
+    <First>Nuri</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1719,-194,1771,-267">1745,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03514">
+  <Position GenoMap="2. Berber" BoundaryRect="1794,-194,1846,-246">1820,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03515">
+  <Name>Necat Berber
+    <Display>Necat Berber</Display>
+    <First>Necat</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1659,-299,1711,-372">1685,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03516">
+  <Name>Huriye Berber
+    <Display>Huriye Berber</Display>
+    <First>Huriye</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1894,-299,1946,-372">1920,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03517">
+  <Name>Nuriye Berber
+    <Display>Nuriye Berber</Display>
+    <First>Nuriye</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2044,-299,2096,-372">2070,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03518">
+  <Position GenoMap="2. Berber" BoundaryRect="1734,-299,1786,-351">1760,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03519">
+  <Name>Kaan Berber
+    <Display>Kaan Berber</Display>
+    <First>Kaan</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1669,-404,1721,-477">1695,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03520">
+  <Name>Hakan Berber
+    <Display>Hakan Berber</Display>
+    <First>Hakan</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1724,-404,1776,-477">1750,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03521">
+  <Position GenoMap="2. Berber" BoundaryRect="1814,-299,1866,-351">1840,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03522">
+  <Name>Mustafa
+    <Display>Mustafa</Display>
+    <First>Mustafa</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="1827,-404,1882,-463">1855,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03523">
+  <Position GenoMap="2. Berber" BoundaryRect="1879,-404,1931,-456">1905,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03524">
+  <Position GenoMap="2. Berber" BoundaryRect="1969,-299,2021,-351">1995,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03525">
+  <Name>Isil
+    <Display>Isil</Display>
+    <First>Isil</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2004,-404,2056,-463">2030,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03526">
+  <Name>Lutfu Berber
+    <Display>Lutfu Berber</Display>
+    <First>Lutfu</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2234,-194,2286,-267">2260,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03527">
+  <Position GenoMap="2. Berber" BoundaryRect="2289,-194,2341,-246">2315,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03528">
+  <Name>Ayker Berber
+    <Display>Ayker Berber</Display>
+    <First>Ayker</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2174,-299,2226,-372">2200,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03529">
+  <Name>Nuriye Berber
+    <Display>Nuriye Berber</Display>
+    <First>Nuriye</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2339,-299,2391,-372">2365,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03530">
+  <Position GenoMap="2. Berber" BoundaryRect="2249,-299,2301,-351">2275,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03531">
+  <Name>Enerzi Berber
+    <Display>Enerzi Berber</Display>
+    <First>Enerzi</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2209,-404,2261,-477">2235,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03532">
+  <Name>Mustafa Berber
+    <Display>Mustafa Berber</Display>
+    <First>Mustafa</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2587,-194,2642,-267">2615,-220</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03533">
+  <Position GenoMap="2. Berber" BoundaryRect="2664,-194,2716,-246">2690,-220</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03534">
+  <Name>Hesna Berber
+    <Display>Hesna Berber</Display>
+    <First>Hesna</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2544,-299,2596,-372">2570,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03535">
+  <Name>Necla Berber
+    <Display>Necla Berber</Display>
+    <First>Necla</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2714,-299,2766,-372">2740,-325</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind03536">
+  <Name>Ahmet Berber
+    <Display>Ahmet Berber</Display>
+    <First>Ahmet</First>
+    <Last>Berber</Last>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2814,-299,2866,-372">2840,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03537">
+  <Position GenoMap="2. Berber" BoundaryRect="2439,-299,2491,-351">2465,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03538">
+  <Position GenoMap="2. Berber" BoundaryRect="2649,-299,2701,-351">2675,-325</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03539">
+  <Name>Serkan
+    <Display>Serkan</Display>
+    <First>Serkan</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2679,-404,2731,-463">2705,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03540">
+  <Name>Celent
+    <Display>Celent</Display>
+    <First>Celent</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2464,-404,2516,-463">2490,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind03541">
+  <Name>Esen
+    <Display>Esen</Display>
+    <First>Esen</First>
+  </Name>
+  <Position GenoMap="2. Berber" BoundaryRect="2514,-404,2566,-463">2540,-430</Position>
+  <Gender>F</Gender>
 </Individual>
 </Individuals>
 <Families>
@@ -15292,6 +15934,262 @@
     </Top>
   </Position>
 </Family>
+<Family ID="fam00997">
+  <Position GenoMap="2. Berber">-125,40
+    <Top>
+      <Left>-125,40</Left>
+      <Right>-45,40</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00998">
+  <Position GenoMap="2. Berber">-100,-65
+    <Top>
+      <Left>-315,-65</Left>
+      <Right>2150,-65</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00999">
+  <Position GenoMap="2. Berber">-25,-170
+    <Top>
+      <Left>-230,-170</Left>
+      <Right>1430,-170</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01000">
+  <Position GenoMap="2. Berber">-230,-275
+    <Top>
+      <Left>-230,-275</Left>
+      <Right>-50,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01001">
+  <Position GenoMap="2. Berber">-205,-380
+    <Top>
+      <Left>-205,-380</Left>
+      <Right>-145,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01002">
+  <Position GenoMap="2. Berber">-180,-485
+    <Top>
+      <Left>-180,-485</Left>
+      <Right>-125,-485</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01003">
+  <Position GenoMap="2. Berber">-80,-380
+    <Top>
+      <Left>-80,-380</Left>
+      <Right>-20,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01004">
+  <Position GenoMap="2. Berber">175,-275
+    <Top>
+      <Left>100,-275</Left>
+      <Right>280,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01005">
+  <Position GenoMap="2. Berber">100,-380
+    <Top>
+      <Left>100,-380</Left>
+      <Right>155,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01006">
+  <Position GenoMap="2. Berber">250,-380
+    <Top>
+      <Left>220,-380</Left>
+      <Right>280,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01007">
+  <Position GenoMap="2. Berber">450,-275
+    <Top>
+      <Left>365,-275</Left>
+      <Right>590,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01008">
+  <Position GenoMap="2. Berber">545,-375
+    <Top>
+      <Left>530,-375</Left>
+      <Right>590,-375</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01009">
+  <Position GenoMap="2. Berber">365,-380
+    <Top>
+      <Left>365,-380</Left>
+      <Right>435,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01010">
+  <Position GenoMap="2. Berber">750,-275
+    <Top>
+      <Left>750,-275</Left>
+      <Right>810,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01011">
+  <Position GenoMap="2. Berber">775,-380
+    <Top>
+      <Left>725,-380</Left>
+      <Right>875,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01012">
+  <Position GenoMap="2. Berber">725,-490
+    <Top>
+      <Left>725,-490</Left>
+      <Right>780,-490</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01013">
+  <Position GenoMap="2. Berber">1125,-275
+    <Top>
+      <Left>1030,-275</Left>
+      <Right>1200,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01014">
+  <Position GenoMap="2. Berber">1030,-380
+    <Top>
+      <Left>1030,-380</Left>
+      <Right>1090,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01015">
+  <Position GenoMap="2. Berber">1200,-380
+    <Top>
+      <Left>1200,-380</Left>
+      <Right>1260,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01016">
+  <Position GenoMap="2. Berber">1430,-275
+    <Top>
+      <Left>1415,-275</Left>
+      <Right>1505,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01017">
+  <Position GenoMap="2. Berber">1360,-380
+    <Top>
+      <Left>1345,-380</Left>
+      <Right>1415,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01018">
+  <Position GenoMap="2. Berber">1505,-380
+    <Top>
+      <Left>1505,-380</Left>
+      <Right>1565,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01019">
+  <Position GenoMap="2. Berber">2150,-170
+    <Top>
+      <Left>1745,-170</Left>
+      <Right>2615,-170</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01020">
+  <Position GenoMap="2. Berber">1745,-275
+    <Top>
+      <Left>1685,-275</Left>
+      <Right>2070,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01021">
+  <Position GenoMap="2. Berber">1685,-380
+    <Top>
+      <Left>1685,-380</Left>
+      <Right>1760,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01022">
+  <Position GenoMap="2. Berber">1875,-380
+    <Top>
+      <Left>1840,-380</Left>
+      <Right>1920,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01023">
+  <Position GenoMap="2. Berber">2025,-380
+    <Top>
+      <Left>1995,-380</Left>
+      <Right>2070,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01024">
+  <Position GenoMap="2. Berber">2290,-275
+    <Top>
+      <Left>2200,-275</Left>
+      <Right>2365,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01025">
+  <Position GenoMap="2. Berber">2210,-380
+    <Top>
+      <Left>2200,-380</Left>
+      <Right>2275,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01026">
+  <Position GenoMap="2. Berber">2615,-275
+    <Top>
+      <Left>2570,-275</Left>
+      <Right>2840,-275</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01027">
+  <Position GenoMap="2. Berber">2480,-380
+    <Top>
+      <Left>2465,-380</Left>
+      <Right>2570,-380</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam01028">
+  <Position GenoMap="2. Berber">2700,-380
+    <Top>
+      <Left>2675,-380</Left>
+      <Right>2740,-380</Right>
+    </Top>
+  </Position>
+</Family>
 </Families>
 <PedigreeLinks>
 <PedigreeLink PedigreeLink="Parent" Family="fam00014" Individual="ind00031"/>
@@ -16947,7 +17845,135 @@
 <PedigreeLink PedigreeLink="Parent" Family="fam00996" Individual="ind03449"/>
 <PedigreeLink PedigreeLink="Parent" Family="fam00996" Individual="ind03450"/>
 <PedigreeLink PedigreeLink="Biological" Family="fam00996" Individual="ind03451"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00997" Individual="ind03452"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00997" Individual="ind03453"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00997" Individual="ind03454"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00998" Individual="ind03454"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00998" Individual="ind03455"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00998" Individual="ind03456"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00998" Individual="ind03457"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00998" Individual="ind03458"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00999" Individual="ind03457"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00999" Individual="ind03459"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00999" Individual="ind03460"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00999" Individual="ind03461"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00999" Individual="ind03462"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00999" Individual="ind03463"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00999" Individual="ind03464"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00999" Individual="ind03465"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01000" Individual="ind03460"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01000" Individual="ind03466"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01000" Individual="ind03467"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01000" Individual="ind03468"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01001" Individual="ind03467"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01001" Individual="ind03469"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01001" Individual="ind03470"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01002" Individual="ind03470"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01002" Individual="ind03471"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01003" Individual="ind03468"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01003" Individual="ind03472"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01003" Individual="ind03473"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01004" Individual="ind03461"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01004" Individual="ind03474"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01004" Individual="ind03475"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01004" Individual="ind03476"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01005" Individual="ind03475"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01005" Individual="ind03477"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01005" Individual="ind03478"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01006" Individual="ind03476"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01006" Individual="ind03479"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01006" Individual="ind03480"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01007" Individual="ind03462"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01007" Individual="ind03481"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01007" Individual="ind03482"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01007" Individual="ind03483"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01008" Individual="ind03483"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01008" Individual="ind03484"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01008" Individual="ind03485"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01008" Individual="ind03486"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01009" Individual="ind03482"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01009" Individual="ind03487"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01009" Individual="ind03488"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01009" Individual="ind03489"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01010" Individual="ind03463"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01010" Individual="ind03490"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01010" Individual="ind03491"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01011" Individual="ind03491"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01011" Individual="ind03492"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01011" Individual="ind03493"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01011" Individual="ind03494"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01012" Individual="ind03493"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01012" Individual="ind03495"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01012" Individual="ind03496"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01013" Individual="ind03464"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01013" Individual="ind03497"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01013" Individual="ind03498"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01013" Individual="ind03499"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01014" Individual="ind03498"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01014" Individual="ind03500"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01014" Individual="ind03501"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01015" Individual="ind03499"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01015" Individual="ind03502"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01015" Individual="ind03503"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01016" Individual="ind03465"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01016" Individual="ind03504"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01016" Individual="ind03505"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01016" Individual="ind03506"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01017" Individual="ind03505"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01017" Individual="ind03507"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01017" Individual="ind03508"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01017" Individual="ind03509"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01018" Individual="ind03506"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01018" Individual="ind03510"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01018" Individual="ind03511"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01019" Individual="ind03458"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01019" Individual="ind03512"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01019" Individual="ind03513"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01020" Individual="ind03513"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01020" Individual="ind03514"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01020" Individual="ind03515"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01020" Individual="ind03516"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01020" Individual="ind03517"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01021" Individual="ind03515"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01021" Individual="ind03518"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01021" Individual="ind03519"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01021" Individual="ind03520"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01022" Individual="ind03516"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01022" Individual="ind03521"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01022" Individual="ind03522"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01022" Individual="ind03523"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01023" Individual="ind03517"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01023" Individual="ind03524"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01023" Individual="ind03525"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01019" Individual="ind03526"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01024" Individual="ind03526"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01024" Individual="ind03527"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01024" Individual="ind03528"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01024" Individual="ind03529"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01025" Individual="ind03528"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01025" Individual="ind03530"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01025" Individual="ind03531"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01019" Individual="ind03532"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01026" Individual="ind03532"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01026" Individual="ind03533"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01026" Individual="ind03534"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01026" Individual="ind03535"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01026" Individual="ind03536"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01027" Individual="ind03534"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01027" Individual="ind03537"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01028" Individual="ind03535"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam01028" Individual="ind03538"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01028" Individual="ind03539"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01027" Individual="ind03540"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam01027" Individual="ind03541"/>
 </PedigreeLinks>
+<Pictures>
+<Picture ID="pic00001">
+  <Path Relative="media/photo_2022-12-18_17-54-36.jpg" FileUnique="photo_2022-12-18_17-54-36.jpg" Report="media/photo_2022-12-18_17-54-36.jpg">C:\Users\User\Desktop\ТЕРЕК\media\photo_2022-12-18_17-54-36.jpg</Path>
+  <Name>photo_2022-12-18_17-54-36</Name>
+  <Cache FileSize="73023" Dimension="906x951" Megapixels="0.86" BPP="24" DPI="72"/>
+</Picture>
+</Pictures>
 <Places>
 <Place ID="place00002">
   <Name>Хабаз</Name>
@@ -16980,11 +18006,8 @@
 </Occupation>
 </Occupations>
 <Contacts>
-<Contact ID="contact00006">
-  <Telephone>715 659</Telephone>
-</Contact>
+<Contact ID="contact00006"/>
 <Contact ID="contact00007">
-  <Telephone>89287205115</Telephone>
   <Type>WorkPlace</Type>
 </Contact>
 </Contacts>
